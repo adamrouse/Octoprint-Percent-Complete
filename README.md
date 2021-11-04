@@ -6,7 +6,7 @@ How to Use:
 2. Open up settings > Features > API.
 3. Copy the API key.
 4. Open OctoPrintPercentComplete.html
-5. Replace [apikey] with the api key you just copied.
+5. Replace [api-key] with the api key you just copied.
 6. Replace [ipaddress] with the IP address or url of your octoprint.
 7. Open OBS
 8. Add a Browser source.
